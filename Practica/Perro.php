@@ -8,7 +8,7 @@ class Perro extends Animal
     }
     public function roar()
     {
-        echo $this->nombre."Ladra, WAU!!";
+        echo $this->nombre."Ladra, wout wout!!";
     }
 }
 ?>

@@ -12,8 +12,8 @@
         {
             display:inline-block;
             text-align: center;
-            margin-left: 120px;
-            margin-bottom: 90px;
+            margin-left: 100px;
+            margin-bottom: 80px;
         }
     </style>
 </head>
@@ -43,7 +43,7 @@
     <img class="card-img-top" src="./img/perro.jpg" alt="Car image cap" style="width: 15rem; height: 13rem;">
         <div class="card-body">
             <h5 class="card-body">Perro</h5>
-        <input type="submit" class="btn btn-primary" name="gato" value="Reproducir">
+        <input type="submit" class="btn btn-primary" name="perro" value="Reproducir">
 </div>
     </div>
         </div>
@@ -53,12 +53,12 @@
     <img class="card-img-top" src="./img/vaca.jpg" alt="Car image cap" style="width: 15rem; height: 13rem;">
         <div class="card-body">
             <h5 class="card-body">Vaca</h5>
-        <input type="submit" class="btn btn-primary" name="gato" value="Reproducir">
+        <input type="submit" class="btn btn-primary" name="vaca" value="Reproducir">
 </div>
     </div>
         </div>
-    </form>
 </body>
+
 </html>
 
 <?php

@@ -7,7 +7,7 @@ class Animal
 {
     public function roar()
     {
-        echo "El ";
+        echo "El sasa";
     }
 }
 function RoarAnimal(Animal $_animal)
@@ -15,9 +15,9 @@ function RoarAnimal(Animal $_animal)
     $_animal->roar();
 }
 
-$gato = new Gato("Pelusa ");
-$perro = new Perro("Kaizer ");
-$vaca = new Vaca("Lola");
+$gato = new Gato("El Gato ");
+$perro = new Perro("El perro ");
+$vaca = new Vaca("La vaca ");
 ?>
 <?php
 if (isset($_POST['gato']))

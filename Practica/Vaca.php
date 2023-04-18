@@ -8,7 +8,7 @@ class Vaca extends Animal
     }
     public function roar()
     {
-        echo $this->nombre."Le hace MUU!!";
+        echo $this->nombre."Le hace, muuu!!";
     }
 }
 ?>
